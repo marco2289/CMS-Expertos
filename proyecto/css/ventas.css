@@ -1,0 +1,31 @@
+body {
+  background: #BA8B02;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #181818, #BA8B02);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #181818, #BA8B02); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+#barra{
+   background-color: rgba(0, 0, 0, 0.3);
+}
+
+  #formulario {
+    margin-top: 100px;
+  }
+
+  #caja{
+    margin-top: 50px;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 5000px;
+    border-radius: 10px;
+    height: 750px;
+    }
+
+
+
+#pie{
+  margin-top: 150px;
+  background-color: rgba(0, 0, 0, 0.3);
+
+}
